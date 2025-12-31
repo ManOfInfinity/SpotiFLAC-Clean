@@ -1,4 +1,4 @@
-[![GitHub All Releases](https://img.shields.io/github/downloads/afkarxyz/SpotiFLAC/total?style=for-the-badge)](https://github.com/afkarxyz/SpotiFLAC/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/afkarxyz/SpotiFLAC/total?style=for-the-badge)](https://github.com/ManOfInfinity/SpotiFLAC-Clean/releases)
 
 ![Image](https://github.com/user-attachments/assets/a6e92fdd-2944-45c1-83e8-e23a26c827af)
 
@@ -12,16 +12,8 @@ Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account 
 
 </div>
 
-### [Download](https://github.com/afkarxyz/SpotiFLAC/releases)
+### [Download](https://github.com/ManOfInfinity/SpotiFLAC-Clean/releases)
 
 ## Screenshot
 
 ![Image](https://github.com/user-attachments/assets/afe01529-bcf0-4486-8792-62af26adafee)
-
-## Other project
-
-### [SpotiDownloader](https://github.com/afkarxyz/SpotiDownloader) 
-
-Get Spotify tracks in MP3 and FLAC via the spotidownloader.com API
-
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/afkarxyz)
